@@ -1,0 +1,5 @@
+.vscode
+__pycache__/*
+*.pyc
+figures/*
+Conception, entraînement, régularisation et optimisation d un réseau de neurones.pdf
